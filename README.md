@@ -1,4 +1,4 @@
-**🛡️ WebVAPT-Intel-Aggregator**
+***🛡️ WebVAPT-Intel-Aggregator***
 
 A specialized, high-signal CLI tool designed to automate vulnerability research, payload discovery, and reference aggregation for security professionals.
 
