@@ -18,7 +18,7 @@ Automated Execution: Performs direct live lookups without synthetic generation r
 
 Ensure you have Python 3.8+ installed, then clone the repository and install dependencies:
 ```
-git clone https://github.com/your-username/vapt-intel-engine.git
+git clone https://github.com/SecurityBong/WebVAPT-Intel-Aggregator.git
 cd vapt-intel-engine
 ```
 
